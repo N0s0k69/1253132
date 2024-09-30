@@ -1,0 +1,2 @@
+read dr
+ls $dr
